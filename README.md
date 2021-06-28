@@ -1,10 +1,10 @@
 <div align="center">
-<h1>🦚 Ravindu Manoj Whatsapp Bot🦚</h1>
+<h1>🦚  Ravindu Manoj Whatsapp Bot  🦚</h1>
 </div>
 
-#
-## 🇱🇰RAVINDU MANOJ🇱🇰  
-### WHATSRAVIYA BOT FOR YOUR HELP
+
+## 🇱🇰 RAVINDU MANOJ 🇱🇰  
+### WHATSRAVIYA BOT FOR YOUR HELP😇
 
 - [RavinduManoj](https://github.com/RavinduManoj)
 - [@RavinduManoj](https://t.me/RavinduManoj)
@@ -67,7 +67,7 @@ the user is responsible.
 
 <div align="center">
   <img src="https://github.com/RavinduManoj/imagehosting/blob/e18b9131ed1b5ec87d58359781c2a9c1044df810/temp_user_profile1621662133773.jpeg" width="250" height="250">
-  <h1>🦚 Ravindu Manoj Whatsapp Bot🦚</h1>
+  <h1>🦚  Ravindu Manoj Whatsapp Bot  🦚</h1>
   <h1>🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰</h1>
 </div>
 <p align="center">
@@ -86,7 +86,7 @@ the user is responsible.
 ## 🇱🇰 🔎 What is WhatsRaviya?
 **WhatsRaviya,** is a WhatsApp helper bot written by [Ravindu Manoj](https://github.com/RavinduManoj). Does not log into your account It is written on WhatsApp Web API.
 
-##🇱🇰 Setup
+<h1>🇱🇰 Setup </h1>
 
 ###🇱🇰 Simple Method
 
@@ -108,7 +108,7 @@ $ node bot.js
 ##
 
 ### ⚒️ Setup Wiki - Kurulum [Full Guide - By Ravindu Manoj]
-[![Setup - Raviya](https://github.com/RavinduManoj/imagehosting/blob/7d17c40df5099525556eb014b20a13eca4ac1176/20210628_090852.png?size=150 )](https://github.com/RavinduManoj/RaviyaBot/wiki)
+[![Setup - Raviya](https://github.com/RavinduManoj/imagehosting/blob/7d17c40df5099525556eb014b20a13eca4ac1176/20210628_090852.png?size=75 )](https://github.com/RavinduManoj/RaviyaBot/wiki)
 
 ##
 
@@ -135,6 +135,6 @@ This project is protected by `GNU General Public Licence v3.0` license.
 
 <div align="center">
   <img src="https://github.com/RavinduManoj/imagehosting/blob/7d17c40df5099525556eb014b20a13eca4ac1176/IMG_20210628_090553.jpg" width="250" height="250">
-  <h1>🦚 Ravindu Manoj Whatsapp Bot🦚</h1>
+  <h1>🦚  Ravindu Manoj Whatsapp Bot  🦚</h1>
   <h1>🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰</h1>
 </div>
