@@ -1,6 +1,8 @@
 <div align="center">
-<h1>🦚 Ravindu Manoj Whatsapp Bot</h1>
+<h1>🦚 Ravindu Manoj Whatsapp Bot🦚</h1>
 </div>
+
+#
 ## 🇱🇰RAVINDU MANOJ🇱🇰  
 ### WHATSRAVIYA BOT FOR YOUR HELP
 
@@ -48,7 +50,7 @@
 </p>
 
 ```
-WhatsAsena - Asena Userbot is Open Source software open to development. 
+WhatsRaviya - Raviya Userbot is Open Source software open to development. 
 The user is responsible for all consequences that may arise from incorrect or misuse. 
 Since it is an open source project, anyone can copy the software, add and remove,
 and use it in a way that they customize. In addition, plug-in support enables users to 
@@ -64,8 +66,8 @@ the user is responsible.
 ```
 
 <div align="center">
-  <img src="https://github.com/RavinduManoj/imagehosting/blob/e18b9131ed1b5ec87d58359781c2a9c1044df810/temp_user_profile1621662133773.jpeg" width="200" height="200">
-  <h1>🦚 Ravindu Manoj Whatsapp Bot</h1>
+  <img src="https://github.com/RavinduManoj/imagehosting/blob/e18b9131ed1b5ec87d58359781c2a9c1044df810/temp_user_profile1621662133773.jpeg" width="250" height="250">
+  <h1>🦚 Ravindu Manoj Whatsapp Bot🦚</h1>
   <h1>🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰</h1>
 </div>
 <p align="center">
@@ -80,13 +82,6 @@ the user is responsible.
 
 ----
 ![Docker Pulls](https://img.shields.io/docker/pulls/fusuf/whatsasena?style=flat-square) ![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/fusuf/whatsasena?style=flat-square)
-
-## 🇱🇰 📢 Guide
-> [Also for support & help please come our Telegram group.](https://t.me/AsenaSupport) (Legacy)
-
-> [New support & help group.](https://t.me/asenaremaster) (New)
-
-> [Install Guide/Kurulum Yardımcısı/Qurulum Müavin](https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki)
 
 ## 🇱🇰 🔎 What is WhatsRaviya?
 **WhatsRaviya,** is a WhatsApp helper bot written by [Ravindu Manoj](https://github.com/RavinduManoj). Does not log into your account It is written on WhatsApp Web API.
@@ -113,7 +108,7 @@ $ node bot.js
 ##
 
 ### ⚒️ Setup Wiki - Kurulum [Full Guide - By Ravindu Manoj]
-[![Setup - Raviya](https://github.com/RavinduManoj/imagehosting/blob/7d17c40df5099525556eb014b20a13eca4ac1176/20210628_090852.png?size=200 )](https://github.com/RavinduManoj/RaviyaBot/wiki)
+[![Setup - Raviya](https://github.com/RavinduManoj/imagehosting/blob/7d17c40df5099525556eb014b20a13eca4ac1176/20210628_090852.png?size=150 )](https://github.com/RavinduManoj/RaviyaBot/wiki)
 
 ##
 
@@ -139,7 +134,7 @@ This project is protected by `GNU General Public Licence v3.0` license.
 `WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
 
 <div align="center">
-  <img src="https://github.com/RavinduManoj/imagehosting/blob/7d17c40df5099525556eb014b20a13eca4ac1176/IMG_20210628_090553.jpg" width="200" height="200">
-  <h1>🦚 Ravindu Manoj Whatsapp Bot</h1>
+  <img src="https://github.com/RavinduManoj/imagehosting/blob/7d17c40df5099525556eb014b20a13eca4ac1176/IMG_20210628_090553.jpg" width="250" height="250">
+  <h1>🦚 Ravindu Manoj Whatsapp Bot🦚</h1>
   <h1>🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰</h1>
 </div>
