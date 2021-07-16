@@ -8,47 +8,6 @@
 
 - [RavinduManoj](https://github.com/RavinduManoj)
 - [@RavinduManoj](https://t.me/RavinduManoj)
-
-<p align="center">
-  <a href="https://github.com/RavinduManoj/RaviyaBot/fork">
-    <img src="https://img.shields.io/github/forks/phaticusthiccy/WhatsAsenaDuplicated?label=Fork&style=social">
-    
-  </a>
-  <a href="https://github.com/RavinduManoj/RaviyaBot/stargazers">
-    <img src="https://img.shields.io/github/stars/phaticusthiccy/WhatsAsenaDuplicated?style=social">
-  </a>
-  <a href="https://github.com/RavinduManoj/RaviyaBot/commits/master">
-    <img src="https://img.shields.io/github/commit-activity/m/phaticusthiccy/WhatsAsenaDuplicated?style=social">
-  </a>
-</p>
-
-<p align="center">
-  <a href="httsp://github.com/RavinduManoj/RaviyaBot">
-    <img src="https://img.shields.io/github/repo-size/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Repo%20Size&style=plastic">
-
-  </a>
-  <a href="httsp://github.com/RavinduManoj/RaviyaBot">
-    <img src="https://img.shields.io/codefactor/grade/github/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Code%20Quality&style=plastic">
-
-  </a>
-  <a href="https://github.com/RavinduManoj/RaviyaBot/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Lisance&style=plastic">
-
-  </a>
-  <a href="https://github.com/RavinduManoj/RaviyaBot">
-    <img src="https://img.shields.io/github/languages/top/phaticusthiccy/WhatsAsenaDuplicated?color=purple&label=Javascript&style=plastic">
-
-  </a>
-  <a href="https://github.com/RavinduManoj">
-    <img src="https://img.shields.io/static/v1?label=Author&message=Thiccy&color=purple&style=plastic">
-
-  </a>
-  <a href="https://t.me/asenaremaster">
-    <img src="https://img.shields.io/badge/Telegram-Asena%20Remaster-purple&style=plastic">
-
-  </a>
-</p>
-
 ```
 WhatsRaviya - Raviya Userbot is Open Source software open to development. 
 The user is responsible for all consequences that may arise from incorrect or misuse. 
@@ -83,42 +42,6 @@ the user is responsible.
 ----
 ![Docker Pulls](https://img.shields.io/docker/pulls/fusuf/whatsasena?style=flat-square) ![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/fusuf/whatsasena?style=flat-square)
 
-## 🇱🇰 🔎 What is WhatsRaviya?
-**WhatsRaviya,** is a WhatsApp helper bot written by [Ravindu Manoj](https://github.com/RavinduManoj). Does not log into your account It is written on WhatsApp Web API.
-
-<h1>🇱🇰 Setup </h1>
-
-###🇱🇰 Simple Method
-
-[![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RavinduManoj/RaviyaBot)
-
-###🇱🇰 The Hard Method
-```js
-$ git clone https://github.com/RavinduManoj/RaviyaBot.git
-$ cd WhatsAsenaDuplicated
-$ npm i
-$ nano Config.env
-// Config.env oluşturun ve düzenleyin.
-// Config.env create and edit.
-$ node bot.js
-```
-
-##
-
-### ⚒️ Setup Wiki - Kurulum [Full Guide - By Ravindu Manoj]
-[![Setup - Raviya](https://github.com/RavinduManoj/imagehosting/blob/7d17c40df5099525556eb014b20a13eca4ac1176/20210628_090852.png?size=75 )](https://github.com/RavinduManoj/RaviyaBot/wiki)
-
-##
-
-### 🇱🇰 ⚠️ Warning! 
-```
-Due to Userbot; Your WhatsApp account may be banned.
-This is an open source project, you are responsible for everything you do. 
-Absolutely, Asena executives do not accept responsibility.
-By establishing the Asena, you are deemed to have accepted these responsibilities.
-```
 
 ##🇱🇰 Developer 🦚
 
