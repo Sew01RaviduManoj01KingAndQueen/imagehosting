@@ -2,7 +2,7 @@
 <h1>🦚  Ravindu Manoj Whatsapp Bot  🦚</h1>
 </div>
 
-![Ravindu Manoj](https://github.com/Sew01RaviduManoj01KingAndQueen/imagehosting/blob/b08f201dbfdd44cdfe38476d94e600c7617d6fe0/VID-20210724-WA0003.gif)
+![Ravindu Manoj](https://github.com/Sew01RaviduManoj01KingAndQueen/imagehosting/blob/00aa7f2685f0114a2111f57149d8f0a27b2481c9/VID-20210724-WA0003.gif)
 
 
 ## 🇱🇰 RAVINDU MANOJ 🇱🇰  
